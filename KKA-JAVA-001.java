@@ -24,7 +24,7 @@ public class HelloWorld {
    * @version 0.8
    * @return a szamok osszege.
    */
-  public static int add(int a, int b) {
+  public static int add(int a=2, int b=4) {
     return a+b;
   /**
    * Szorzas 
@@ -35,7 +35,7 @@ public class HelloWorld {
    * @version 0.9
    * @return a szamok szorzata.
    */
-  public static int add(int a, int b) {
-    return a*b;
+  public static int add(int x=8, int y=3) {
+    return x*y;
   }
 }
