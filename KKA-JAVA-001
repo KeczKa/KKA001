@@ -26,5 +26,16 @@ public class HelloWorld {
    */
   public static int add(int a, int b) {
     return a+b;
+  /**
+   * Szorzas 
+   *
+   * @param a az elso szam.
+   * @param b a masodik szam.
+   * @author KKA
+   * @version 0.9
+   * @return a szamok szorzata.
+   */
+  public static int add(int a, int b) {
+    return a*b;
   }
 }
