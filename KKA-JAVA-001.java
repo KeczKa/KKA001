@@ -24,7 +24,7 @@ public class HelloWorld {
    * @version 0.8
    * @return a szamok osszege.
    */
-  public static int add(int a, int b) {
+  public static int add(a, b) {
     return a + b;
   }
 
