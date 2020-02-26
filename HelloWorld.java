@@ -37,7 +37,7 @@ public class HelloWorld {
    * @version 0.9
    * @return a szamok szorzata.
    */
-  public static int add(int x, int y) {
+    add(int x, int y) {
     return x * y;
   }
 }
